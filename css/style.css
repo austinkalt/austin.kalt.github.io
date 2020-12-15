@@ -34,6 +34,12 @@
 	width:100%;
 }
 
+.container_fluid_4{
+	background-color: #FFC52F;
+	width:100%;
+}
+
+
 #devin_title{
 font-family: 'Poppins', sans-serif;
 font-style:700px;
@@ -138,6 +144,8 @@ width:90%;
 
 .container_fluid_6{
 background-color: #8FBCE6;
+width:100%;
+height:1000px;
 }
 
 @media only screen and (max-width:768px) {.container-fluid_7 {padding-top:250px; padding-bottom:155px; max-width:768px;}

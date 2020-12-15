@@ -62,7 +62,7 @@ text-align:center;
 }
 
 #devin_graph{
-	width:50%;
+	width:100%;
 }
 
 @media only screen and (max-width:768px) {#devin_gif {height:300px; width:300px; left:200px;}
